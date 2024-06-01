@@ -10,5 +10,6 @@
 
 ***Как эксперт по информационной безопасности, я ставлю перед собой цель повысить безопасность путем выявления уязвимостей и внедрения эффективных решений.***
 
-[![Files.png](https://i.postimg.cc/rsZ7zpvh/Files.png)](https://postimg.cc/bSbmBqYb)
-
+[![Files-1.png](https://i.postimg.cc/2SLJ0rZW/Files-1.png)](https://postimg.cc/RW9XFrGC)
+[![Files-2.png](https://i.postimg.cc/xdKZS5gT/Files-2.png)](https://postimg.cc/VSkgqj33)
+[![Files-3.png](https://i.postimg.cc/1zxdT2Gj/Files-3.png)](https://postimg.cc/TK9Q5kHV)
