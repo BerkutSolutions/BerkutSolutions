@@ -2,7 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://adkeliberda.ru/)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/201986284334350336/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/berkutmraz)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/berkutcommunity)
 
 Более 2 лет опыта работы в области кибербезопасности, включая тестирование на проникновение, разработку пррограмм информационной безопасности, нормативных документов внутри компаний,а также повышение осведомленности сотрудников, оценка уязвимостей и рисков и их устранение.
 
